@@ -5,7 +5,7 @@
 
 # DEMO
 
-"StreraR"の魅力が直感的に伝えわるデモ動画や図解を載せる
+![stera_r](https://user-images.githubusercontent.com/21374896/157591374-c7f2aa3a-8807-4cee-aa2e-484b49765938.png)
 
 # Features
 
