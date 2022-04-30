@@ -221,9 +221,9 @@ Xzahyo = array(dim = c(counter))
 Yzahyo = array(dim = c(counter))
 hyoukou = array(dim = c(counter))
 for (i in 1:counter) {
-  Xzahyo[i] = data[i, 9] / kansan    # X座標の読み込み
-  Yzahyo[i] = data[i, 10] / kansan    # Y座標の読み込み
-  hyoukou[i] = data[i, 11] / kansan   # 地盤高データの読み込み
+  Xzahyo[i] = data[i, 10] / kansan    # X座標の読み込み
+  Yzahyo[i] = data[i, 11] / kansan    # Y座標の読み込み
+  hyoukou[i] = data[i, 12] / kansan   # 地盤高データの読み込み
 }
 
 ## 配列（マトリックス）の大きさを決める処理
