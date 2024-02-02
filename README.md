@@ -31,7 +31,7 @@ RStudioにプログラムファイルを読み込んで，Sourceアイコンを�
 # Author
 
 * 山﨑 俊夫 ／ Toshio YAMAZAKI
-* 函館工業高等専門学校 ／ UPCS（Urban Planning Cyber Studio）
+* 都市計画電脳工房 ／ UPCS（Urban Planning Cyber Studio）
 * toshi_ya@hakodate-ct.ac.jp  ／ lisa9500jp@gmail.com
 
 # License
