@@ -32,7 +32,7 @@ RStudioにプログラムファイルを読み込んで，Sourceアイコンを�
 
 * 山﨑 俊夫 ／ Toshio YAMAZAKI
 * 都市計画電脳工房 ／ UPCS（Urban Planning Cyber Studio）
-* toshi_ya@hakodate-ct.ac.jp  ／ lisa9500jp@gmail.com
+* lisa9500jp@gmail.com
 
 # License
 
