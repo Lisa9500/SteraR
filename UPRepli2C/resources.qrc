@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/UPRepli2C" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
